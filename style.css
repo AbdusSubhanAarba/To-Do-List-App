@@ -92,7 +92,7 @@ ul li::before {
   height: 24px;
   width: 24px;
   border-radius: 50%;
-  background-image: url(images/unchecked.png);
+  background-image: url(https://raw.githubusercontent.com/AbdusSubhanAarba/To-Do-List-App/main/unchecked.png);
   background-size: cover;
   background-position: center;
   top: 9px;
@@ -105,7 +105,7 @@ ul li.checked {
 }
 
 ul li.checked::before {
-  background-image: url(images/checked.png);
+  background-image: url(https://raw.githubusercontent.com/AbdusSubhanAarba/To-Do-List-App/main/checked.png);
 }
 
 ul li span {
